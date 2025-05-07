@@ -28,5 +28,4 @@ An interactive visualization tool that demonstrates how different pathfinding al
 
 ---
 
-## 📁 Folder Structure
 
