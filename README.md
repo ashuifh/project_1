@@ -1,4 +1,4 @@
-# 🧩 Rat in a Maze Visualization
+# 🧩 Maze Pathfinding Algorithm
 
 An interactive visualization tool that demonstrates how different pathfinding algorithms solve the classic **Rat in a Maze** problem. Users can draw their own maze and watch how algorithms like DFS, BFS, Dijkstra, and A* explore and find the path.
 
